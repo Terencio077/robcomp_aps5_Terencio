@@ -23,7 +23,7 @@ python3 latinhas.py
 
 Os resultados também são salvos em `img/resultados_latinhas/`.
 
-**Link do vídeo:** PENDENTE
+**Link do vídeo:** https://youtu.be/G9HlS2NcHIY
 
 ## Exercício 2 — Vanishing Point
 
@@ -39,7 +39,7 @@ Para processar a foto feita no laboratório e salvar a versão anotada:
 python3 vanishing_point.py img/pista.jpeg --output img/pista_vp.jpeg
 ```
 
-**Link do vídeo:** PENDENTE
+**Link do vídeo:** https://youtu.be/DhOELOIcukg
 
 ## Exercício 3 — Estimando Pose
 
@@ -73,7 +73,7 @@ Na janela da webcam, coloque o padrão na distância de calibração configurada
 pressione `C`. Depois, varie a distância e o ângulo da folha. Pressione `Q` para
 encerrar.
 
-**Link do vídeo:** PENDENTE
+**Link do vídeo:** Não realizado
 
 ## Observações
 
